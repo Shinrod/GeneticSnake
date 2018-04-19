@@ -8,7 +8,7 @@ There are a few controls when you are in the Interface (you can find them in mai
 # Game Controls #
 H : Hide or show the snake
 F : Accelerate the snake (can also use the + key on the keypad)
-S : Decelerate the snake (can also use the + key on the keypad)
+S : Decelerate the snake (can also use the - key on the keypad)
 
 # Genetic #
 E : Toggle Evolution
