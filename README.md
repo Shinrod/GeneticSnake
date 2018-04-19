@@ -12,6 +12,5 @@ S : Decelerate the snake (can also use the - key on the keypad)
 
 # Genetic #
 E : Toggle Evolution
-B : Show the best of each gen
 N : New game with the best of the current gen
 
